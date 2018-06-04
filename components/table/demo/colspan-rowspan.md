@@ -95,7 +95,7 @@ const data = [{
   name: 'Jim Green',
   tel: '0571-22098333',
   phone: 18889898888,
-  age: 42,
+  age: 888,
   address: 'London No. 1 Lake Park',
 }, {
   key: '3',
